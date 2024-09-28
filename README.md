@@ -66,7 +66,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir des issues ou �
 
 ## **Auteur**
 
-Créé par **[El gharbi abdellah]**, dans le cadre d'un exercice de réimplémentation avec **LinearLayout** pour une application Android.
+Créé par **El gharbi abdellah**, dans le cadre d'un exercice de réimplémentation avec **LinearLayout** pour une application Android.
 
 ---
 
