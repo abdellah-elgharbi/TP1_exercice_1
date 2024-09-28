@@ -37,13 +37,6 @@ L'objectif de cette version de l'application est de réimplémenter l'interface 
 
 ---
 
-## **Installation**
-
-1. Clonez le projet depuis le dépôt :
-   ```bash
-   git clone https://github.com/votre-repo/hello-toast-linear-layout.git
-   ```
-
 2. Ouvrez le projet dans **Android Studio**.
 
 3. Compilez et exécutez le projet sur un émulateur ou un appareil physique Android.
