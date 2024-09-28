@@ -84,3 +84,6 @@ Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus d'inform
 ---
 
 Cela fournira une documentation complète et claire pour votre projet **HelloToast** avec **LinearLayout**.
+
+
+[Screen_recording_20240927_233133.webm](https://github.com/user-attachments/assets/d6e02dbc-1c39-4b35-baf2-9d2c7a865d5b)
